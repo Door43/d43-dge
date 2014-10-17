@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dge:home|Door43 (dge)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dge|d43-dge repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dge/archive/master.zip|d43-dge.zip]]
+
+**Recent Changes**
+{{changes>ns = dge}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dge|Ethnologue data]]
+
